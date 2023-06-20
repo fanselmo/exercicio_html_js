@@ -1,0 +1,166 @@
+main, header, footer {
+    padding: 5px;
+    border-color: antiquewhite;
+    margin-bottom: 0%;
+    width: 1400px;
+    margin: 0px;
+}
+
+header a {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+main h2, h3 {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+main p {
+    font-family: 'Hind', sans-serif;
+}
+
+footer p {
+    font-family: 'Hind', sans-serif;
+}
+
+.contatos label, address {
+    font-family: 'Hind', sans-serif;
+}
+
+header {
+    background-color: #001e61;
+    color: #944e10;
+    margin-left: 1px;
+    padding: 1px;
+
+}
+
+header a {
+    text-decoration: none;
+    color: #944e10;
+    padding: 1px;
+}
+
+header img {
+    height: 150px;
+    width: auto;
+}
+
+.myheader {
+    text-align:center ;
+    padding: 1px;
+  }
+  
+  .links nav {
+    display: flex;
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 5px;
+  }
+
+  .links a:hover {
+    color: #7fa2ee;
+  }
+
+#enfase_titulo {
+    font-weight: bolder;
+    font-size: large;
+}
+
+#manifesto h2 {
+    background-color: #001e61;
+    padding: 5px;
+    color: #944e10;
+}
+
+#manifesto p {
+    padding: 3px;
+    text-align: justify;
+    background-color: antiquewhite;
+}
+
+.manifesto {
+    background-color: antiquewhite;
+    margin: 0px;
+    width: 50%;
+}
+
+.fotosperfil img {
+    border-radius: 50%;
+    width: auto;
+    height: 300px;
+
+}
+
+.fotosperfil {
+    display: flex;
+    background-color: antiquewhite;
+    align-items: center;
+    width: 50%;
+    justify-content: center;
+  }
+  
+  .fotosperfil img {
+    margin-right: 10px;
+  }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#cervejas h2 {
+    background-color: #001e61;
+    padding: 5px;
+    color: #944e10;
+}
+#cervejas p {
+    padding: 3px;
+    text-align: justify;
+    background-color: antiquewhite
+}
+
+.cervejas {
+    background-color: antiquewhite;
+    
+}
+
+#Eventos {
+    background-color: #001e61;
+    color: #944e10;
+}
+
+.eventos {
+    background-color: antiquewhite;
+    padding: 5px;
+}
+
+#fale h2 {
+    background-color: #001e61;
+    padding: 5px;
+    color: #944e10; 
+}
+
+#contatos h3 {
+    font-size: 24px;
+}
+
+.contatos {
+    display: flex;
+    align-items: normal;
+    background-color: antiquewhite;
+    justify-content:space-between;
+    padding: 5px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.socialimg img {
+    height: 50px;
+    width: 50px;
+}
+
